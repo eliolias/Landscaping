@@ -11,6 +11,7 @@ public class Main {
     private final static Logger LOGGER = LogManager.getLogger(Main.class);
 
     public static void main(String[] args) throws SQLException {
+        //TODO: Move all queries to top of classes
         //TODO: Make sure DAO is implemented correctly, to then implement business logic/service interfaces
         //TODO: XML with jaxb
 
