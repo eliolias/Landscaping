@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addresses>
+    <Address id="1">
+        <streetAddress>123 abc street</streetAddress>
+        <zipCode>12121</zipCode>
+        <city>random city</city>
+    </Address>
+    <Address id="2">
+        <streetAddress>234 efg avenue</streetAddress>
+        <zipCode>34343</zipCode>
+        <city>anotherRandom city</city>
+    </Address>
+    <Address id="3">
+        <streetAddress>345 hij boulevard</streetAddress>
+        <zipCode>45454</zipCode>
+        <city>random city</city>
+    </Address>
+    <Address id="4">
+        <streetAddress>456 klm court</streetAddress>
+        <zipCode>56565</zipCode>
+        <city>random city</city>
+    </Address>
+</Addresses>
